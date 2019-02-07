@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00 
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shell\OpenInAkelPad]
+@="Edit with AkelPad"
+"Icon"="\"C:\\Program Files (x86)\\AkelPad\\AkelPad.exe\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shell\OpenInAkelPad\command]
+@="\"C:\\Program Files (x86)\\AkelPad\\AkelPad.exe\" %L" 
+
+
